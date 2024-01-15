@@ -4,8 +4,8 @@ This repository contains an Exploratory Data Analysis (EDA) of a dataset related
 
 ## Overview:
 
-- **Dataset Source:** [Provide the source or link to the dataset]
-- **Tools Used:** Python, Jupyter Notebooks, Pandas, Matplotlib, Seaborn, Scikit-Learn
+- **Dataset Source:** https://www.kaggle.com/datasets/aemyjutt/laptop-price-analysis/
+- **Tools Used:** Python, Jupyter Notebooks, Pandas, Matplotlib, Seaborn
 - **Objective:** To explore and analyze the dataset, gain insights into the factors influencing laptop prices, and develop a predictive model.
 
 ## Exploratory Data Analysis:
@@ -45,7 +45,7 @@ The notebook(s) in this repository cover the following aspects:
 
 ## Usage:
 
-1. Clone the repository: `git clone https://github.com/your-username/laptop-price-prediction.git`
+1. Clone the repository: `git clone https://github.com/HaziqAliSohail/Laptop-Price-Prediction-EDA.git`
 2. Open and run the Jupyter Notebook: `jupyter notebook laptop_price_prediction.ipynb`
 
 Feel free to explore, analyze, and use the provided notebook for your own insights or as a starting point for further development.
@@ -56,4 +56,4 @@ If you find issues or want to contribute to this project, please open an issue o
 
 ## License:
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE).
